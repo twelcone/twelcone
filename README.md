@@ -26,7 +26,7 @@ I'm a Student Research Intern on the field of Detection using Deep Learning from
 
 - 👨‍🎓 Junior Computer Science student @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 
-- 🎤 Member @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>"> CSAC - Computer Science Art Club </a>
+- 🎤 Member @ <a href="https://www.facebook.com/CSACUIT"> CSAC - Computer Science Art Club </a>
 
 ---
 
