@@ -49,6 +49,15 @@ My name is <b> Dang Vu Quoc Minh </b>, but you can call me <b> Dang Vu </b> or <
 
 ---
 
+### 🔥My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twelcone&theme=monokai&background=141321)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twelcone&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ### ☎️ Contact Me:
 
 - Facebook: [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=flat)](https://facebook.com/dangvu2k1)
