@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Student Research Intern on the field of Detection using Deep Learning from Vietnam .My full name is <b> Dang Vu Quoc Minh </b>, but you can call me <b> Dang Vu </b> or <b> Twel </b>
+My name is <b> Dang Vu Quoc Minh </b>, but you can call me <b> Dang Vu </b> or <b> Twel </b>. I'm a Student Research Intern on the field of Detection using Deep Learning from Vietnam.
 
 - 👨‍🎓 Junior Computer Science student @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 
