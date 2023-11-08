@@ -22,9 +22,10 @@
 
 ### :man_technologist: About Me :
 
-My name is <b> Dang Vu Quoc Minh </b>, but you can call me <b> Dang Vu </b> or <b> Twel </b>. I'm a Student Research Intern on the field of Detection using Deep Learning from Vietnam.
+My name is <b> Dang Vu Quoc Minh </b>, but you can call me <b> Dang Vu </b> or <b> Twel </b>. I'm now working as an AI Engineer at TMA Solutions.
+- 💻 AI Engineer @ <a href="https://www.tmasolutions.vn/"> TMA Solutions
 
-- 👨‍🎓 Junior Computer Science student @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
+- 👨‍🎓 Graduated from <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 
 - 🎤 Member @ <a href="https://www.facebook.com/CSACUIT"> CSAC - Computer Science Art Club </a>
 
