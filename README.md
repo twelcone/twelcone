@@ -22,8 +22,8 @@
 
 ### :man_technologist: About Me :
 
-My name is <b> Dang Vu Quoc Minh </b>, but you can call me <b> Dang Vu </b> or <b> Twel </b>. I'm now working as an AI Engineer at TMA Solutions.
-- 💻 AI Engineer @ <a href="https://www.tmasolutions.vn/"> TMA Solutions
+My name is <b> Dang Vu Quoc Minh </b>, but you can call me <b> Dang Vu </b> or <b> Twel </b>. I'm now working as an AI Engineer at FPT Software AI Center.
+- 💻 AI Engineer @ <a href="https://fpt-aicenter.com/en"> FPT Software AI Center
 
 - 👨‍🎓 Graduated from <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 
